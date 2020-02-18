@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1Xy9xrZ5ygzenMdBhQq09iA1QzD" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../scala_template_typeflow" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../typeflow/CIDeployTest/TypeFlow" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../typeflow/TypeFlow" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../typeflow/TypeFlowEditor" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
